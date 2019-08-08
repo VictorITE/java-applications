@@ -27,7 +27,7 @@ public class Test {
 		while (fin.hasNextLine()) {
 
 			String line = fin.nextLine();
-			if (line.length() <= 50) { /* Print content if the length of a line is smaller than 50 units.*/
+			if (line.length() <= 50) { /* Print content if the length of a line is smaller than or is equal to 50 units.*/
 				System.out.println(line);
 			}
 		}
