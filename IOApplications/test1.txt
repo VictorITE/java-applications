@@ -1,0 +1,9 @@
+File being processed is test1.txt
+Information for file processing.
+
+Sample data:
+3.45, 4.678, 356, 3446467, 546, 1, 3545, 123456789, 123, 123, 
+
+More sample text:
+-File for testing contains text, double numbers and integer numbers.
+
