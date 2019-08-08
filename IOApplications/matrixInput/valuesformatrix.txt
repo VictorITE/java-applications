@@ -1,0 +1,7 @@
+3 0,6 
+5,5 A phrase. 7,0
+2,0 32,0 
+
+Line with text.
+
+0,7
