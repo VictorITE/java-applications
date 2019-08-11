@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 public class NumberReader {
-	/* java class with a here method to fund the sum of intgers in a given file. */
+	/* java class with a method to find the sum of integers in a file. */
 	public static void readLinesInt(String filename) throws IOException {
 
 		File file = new File(filename);
