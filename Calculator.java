@@ -97,7 +97,7 @@ public class Calculator extends Applet {
 					arg2 += e.getActionCommand();
 				} else {
 					if (!e.getActionCommand().equals(".")) {
-						arg1 += e.getActionCommand();
+						arg2 += e.getActionCommand();
 					}
 				}
 
